@@ -1,0 +1,1 @@
+variable "MY_NSG" {} 
