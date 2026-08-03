@@ -14,6 +14,13 @@ rgs = {
     tags = {
       environment = "prod"
     }
+    RG-MAMTA = {
+    name       = "RG-MAMTA"
+    location   = "Central India"
+    managed_by = "Terraform"
+    tags = {
+      environment = "prod"
+    }
   }
 }
 vnets = {
